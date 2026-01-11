@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nlekas
-- 👀 I’m interested in table top gaming, RPGs, comics, and home automation.
+- 👀 I’m interested in table top gaming, RPGs, comics, home automation, and AI.
 - 💞️ I’m looking to collaborate on tools to help with table top gaming, ebook management, and home automation.
+- 🤩 I also really like building AI (models, tools, frameworks, pipelines, interfaces).
 - 📫 Reach me on LinkedIn at http://www.noahlekas.com 
 
 <!---
